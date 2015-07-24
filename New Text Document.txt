@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 asd aaaaaaaaaaaaa
+=======
+tena tena F1
+tena tena
+F2
+>>>>>>> origin/Test
