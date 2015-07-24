@@ -1,11 +1,5 @@
-tena tena
-
-test asd asd asd
-
-<<<<<<< .merge_file_a00212
-
-
-F1
+<<<<<<< HEAD
+Fe2
 =======
-F2
->>>>>>> .merge_file_a03288
+fe1
+>>>>>>> feature/Fe1
